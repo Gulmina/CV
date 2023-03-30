@@ -1,0 +1,29 @@
+/****************TAgs selector******/
+    body{
+        background-color: #EAF6F6;
+    }
+    hr {
+    
+        border-style: none;
+        border-top-style: dotted;
+        height: 0px;
+        border-color: grey ;
+       border-width: 5px;
+       width: 5%;
+    }
+    img{
+        height: 200px;
+    }
+    h3{
+        background-color: aqua;
+        color: white;
+    }
+    /*********class selectors*****/
+    .hi{
+        background-color: red;
+    }
+
+    .bi{
+        background-color: green;
+
+    }
